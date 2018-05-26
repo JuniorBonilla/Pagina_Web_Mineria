@@ -11,7 +11,30 @@
     margin-top: 30px;
     margin-bottom: 20px;
 }
-@media(max-width:590px){
+.general{
+     width: 950px;
+    margin: auto;
+   
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    
+}
+@media(max-width:480px){
+    .texto{
+        padding: 10px;
+        width: 100%;
+       
+    }
+}
+@media(max-width:578px){
+    .texto{
+        padding: 10px;
+        width: 100%;
+       
+    }
+}
+@media(max-width:900px){
     .texto{
         padding: 10px;
         width: 100%;
